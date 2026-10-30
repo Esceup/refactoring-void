@@ -1,0 +1,8 @@
+{
+"ignorePatterns": ["node_modules", "dist"],
+"rules": {
+  "no-var": "error",
+  "prefer-const": "warn",
+  "eqeqeq": "warn"
+  }
+}
